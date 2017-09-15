@@ -12,6 +12,14 @@ footer {
   padding: 25px;
 }
 
+.jumbotron {
+   background: url('/images/home/Website-Design-Background.png');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center center;
+   color: white;
+}
+
 .carousel-item {
   height: 65vh;
   min-height: 300px;
